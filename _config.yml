@@ -6,16 +6,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 0.5
+  saturation: 0.9232008
   brandStrength: 0.5
-  lightness: 0.625
+  lightness: 0.5590762
   brandColors:
     - '#140a09'
     - '#fe464e'
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: 'Kichijojisteve '
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.5354457
-layout_spectrum: 0.7108209
+layout_spectrum: 1
